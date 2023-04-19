@@ -15,7 +15,7 @@
   - [windows-network-troubleshooting-tools](https://github.com/JordanHarrisTech/configure-ad) 
   
   - <b>Windows 10 deployment scripts</b>
-  - [Complete-Win10-Deploy](https://github.com/JordanHarrisTech/configure-ad)
+  - [Complete-Win10-Deploy](https://github.com/JordanHarrisTech/Complete-Win10-Deploy)
   
   
 <h2>🤳Connect with me:</h2>
