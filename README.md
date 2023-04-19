@@ -1,4 +1,4 @@
-  <h1>Hi, I'm Jordan, an <a href="https://www.linkedin.com/in/jordan-harris-618293273">Remote IT Professional</a>☺</h1>
+  <h1>Hi, I'm Jordan, a <a href="https://www.linkedin.com/in/jordan-harris-618293273">Remote IT Professional</a>☺</h1>
 
   <h2>👨‍💻 Information Technology Projects:</h2>
   
