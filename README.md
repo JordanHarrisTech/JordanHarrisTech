@@ -12,13 +12,11 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JordanHarrisTech/azure-network-protocols-)
 
   - <b>Network troubleshooting tools</b>
+  - [windows-network-troubleshooting-tools](https://github.com/JordanHarrisTech/configure-ad) 
   
   - <b>Windows 10 deployment scripts</b>
   - [Complete-Win10-Deploy](https://github.com/JordanHarrisTech/configure-ad)
   
-  - <b>PowerShell scripts for IT support</b>
-  
-  - <b>IT asset management system</b>
   
 <h2>🤳Connect with me:</h2>
 
